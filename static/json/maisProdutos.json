@@ -1,0 +1,22 @@
+[
+  {
+    "userId": "ProdutoSlide",
+    "nameId": "tenis-4",
+    "brand": "Nike",
+    "status": "old",
+    "model": "Air",
+    "id": 4,
+    "name": "Novo Nike Air Max",
+    "OldPrice": 320.00,
+    "price": 289.99,
+    "description": "Tênis Nike SB Chron Slr Preto",
+    "sizes": [38, 40, 41],
+    "image": [
+      "/static/img/slide-main/air4/nike-air.jpg",
+      "/static/img/slide-main/air4/nike-air2.jpg",
+      "/static/img/slide-main/air4/nike-air3.jpg",
+      "/static/img/slide-main/air4/nike-air4.jpg",
+      "/static/img/slide-main/air4/nike-air5.jpg"
+    ]
+  }
+]

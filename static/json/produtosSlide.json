@@ -1,0 +1,85 @@
+[
+  {
+    "userId": "ProdutoSlide",
+    "nameId": "tenis-1",
+    "brand": "Nike",
+    "status": "new",
+    "model": "Air",
+    "id": 1,
+    "name": "Novo Nike Air Max",
+    "OldPrice": 320.00,
+    "price": 289.99,
+    "description": "Nada mais estiloso, nada tão confortável, nada tão comprovado Nike Air Max 90 permanece fiel às suas raízes com o solado Waffle icônico, camadas costuradas e detalhes em TPU clássicos. Cores atuais proporcionam um visual moderno, enquanto o amortecimento Air Max acrescenta conforto à sua jornada. Originalmente feito para corrida de desempenho, o amortecimento Air Max no calcanhar amortecimento inacreditável. O modelo cano baixo é combinado com um colarinho acolchoado para um visual moderno com sensação macia e confortável. O solado de borracha Waffle acrescenta estilo herdado, tração e durabilidade. Camadas costuradas e toques de TPU acrescentam durabilidade, conforto e o icônico visual dos anos 90 que você ama.",
+    "sizes": [38, 39, 40, 41, 42],
+    "imageSlide": "/static/img/slide-main/air1/img-slide1.png",
+    "image": [
+      "/static/img/slide-main/air1/nike-air.jpg",
+      "/static/img/slide-main/air1/nike-air2.jpg",
+      "/static/img/slide-main/air1/nike-air3.jpg",
+      "/static/img/slide-main/air1/nike-air4.jpg",
+      "/static/img/slide-main/air1/nike-air5.jpg"
+    ]
+  },
+  {
+    "userId": "ProdutoSlide",
+    "nameId": "tenis-2",
+    "brand": "Nike",
+    "status": "new",
+    "model": "Air",
+    "id": 2,
+    "name": "Novo Nike Air Max",
+    "OldPrice": 320.00,
+    "price": 289.99,
+    "description": "Tênis Nike SB Chron Slr Preto",
+    "sizes": [39, 40, 41],
+    "imageSlide": "/static/img/slide-main/air2/img-slide2.png",
+    "image": [
+      "/static/img/slide-main/air2/nike-air.jpg",
+      "/static/img/slide-main/air2/nike-air2.jpg",
+      "/static/img/slide-main/air2/nike-air3.jpg",
+      "/static/img/slide-main/air2/nike-air4.jpg",
+      "/static/img/slide-main/air2/nike-air5.jpg"
+    ]
+  },
+  {
+    "userId": "ProdutoSlide",
+    "nameId": "tenis-3",
+    "brand": "Nike",
+    "status": "new",
+    "model": "Air",
+    "id": 3,
+    "name": "Novo Nike Air Max",
+    "OldPrice": 320.00,
+    "price": 289.99,
+    "description": "Tênis Nike SB Chron Slr Preto",
+    "sizes": [39, 40],
+    "imageSlide": "/static/img/slide-main/air3/img-slide3.png",
+    "image": [
+      "/static/img/slide-main/air3/nike-air.jpg",
+      "/static/img/slide-main/air3/nike-air2.jpg",
+      "/static/img/slide-main/air3/nike-air3.jpg",
+      "/static/img/slide-main/air3/nike-air4.jpg",
+      "/static/img/slide-main/air3/nike-air5.jpg"
+    ]
+  },
+  {
+    "userId": "ProdutoSlide",
+    "nameId": "tenis-4",
+    "brand": "Nike",
+    "status": "old",
+    "model": "Air",
+    "id": 4,
+    "name": "Novo Nike Air Max",
+    "OldPrice": 320.00,
+    "price": 289.99,
+    "description": "Tênis Nike SB Chron Slr Preto",
+    "sizes": [38, 40, 41],
+    "image": [
+      "/static/img/slide-main/air4/nike-air.jpg",
+      "/static/img/slide-main/air4/nike-air2.jpg",
+      "/static/img/slide-main/air4/nike-air3.jpg",
+      "/static/img/slide-main/air4/nike-air4.jpg",
+      "/static/img/slide-main/air4/nike-air5.jpg"
+    ]
+  }
+]
