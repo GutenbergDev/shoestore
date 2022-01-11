@@ -1,0 +1,34 @@
+.containerProduto {
+  max-width: 82.5rem;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.produto {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.containerItem {
+  max-width: 19rem;
+  background: var(--cardItem-color);
+}
+
+.dadosItem {
+  display: flex;
+  flex-direction: column;
+}
+
+.oldPrice {
+  text-decoration: line-through;
+  color: var(--oldPrice-color);
+  font-size: 1rem;
+}
+
+.price {
+  font-weight: bold;
+  color: var(--black1-color);
+  font-size: 1.1rem;
+  font-family: var(--type-first);
+}

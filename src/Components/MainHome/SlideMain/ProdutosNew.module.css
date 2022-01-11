@@ -1,0 +1,175 @@
+.produtosNew {
+  max-width: 82.5rem;
+  height: 200px;
+  margin: 0 auto;
+  padding: 4rem 1rem;
+  height: auto;
+  overflow: hidden;
+}
+
+.containerProdutoNew {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+}
+
+.containerProduto1 {
+  position: relative;
+  width: 60%;
+  z-index: 50;
+}
+
+.containerProduto1 .produtoImage {
+  position: absolute;
+  left: 8rem;
+  top: 2rem;
+  z-index: 40;
+  background: chocolate;
+  width: 70%;
+}
+
+.containerProduto2 {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  margin-top: 2rem;
+}
+
+.produtoImage {
+  display: flex;
+  width: 50%;
+}
+
+.produtoImage img {
+  width: 100%;
+}
+
+.produtoImageMini {
+  display: flex;
+  flex-direction: column;
+  max-width: 14%;
+  margin-right: 1rem;
+  margin-top: 1rem;
+}
+
+.produtoImageMini img {
+  margin-bottom: .5rem;
+}
+
+
+.imageActive {
+  cursor: pointer;
+}
+
+.nameTenis {
+  font-size: 2.2rem;
+}
+
+.containerPrice {
+  display: flex;
+  flex-direction: column;
+}
+
+.price {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: var(--black1-color);
+}
+
+.cardPrice {
+  display: block;
+  max-width: 1rem;
+  max-height: 1rem;
+  background: var(--nextPrev-color);
+}
+
+.oldPrice {
+  color: var(--logo-color);
+  text-decoration: line-through;
+}
+
+.parcelas {
+  font-weight: bold;
+  color: var(--nextPrev-color);
+}
+
+.hrPrice {
+  display: flex;
+  width: 100%;
+  height: .1rem;
+  background: #6D6D6D;
+  margin-top: 1rem;
+}
+
+.brandContent {
+  margin-top: 1rem;
+}
+
+.brand {
+  font-weight: bold;
+  padding-top: 1rem;
+}
+
+/* Botão comprar */
+
+.btnContainer {
+  width: 100%;
+  margin-top: 1rem;
+  position: relative;
+}
+
+.btnMain {
+  display: block;
+  background: transparent;
+  position: relative;
+  width: 100%;
+  height: 2.5rem;
+  margin: -1rem 0 0 -1rem;
+  border: 0;
+  color: #fff;
+  cursor: pointer;
+  margin-top: 1rem;
+  margin-left: .1rem;
+}
+
+.btnMain::before {
+  content: "";
+  position: absolute;
+  border: .1rem solid #333;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.25);
+  top: .2rem;
+  right: 0;
+  bottom: 0;
+  left: .2rem;
+}
+
+.btnMainText {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    right: .5rem;
+    bottom: .5rem;
+    left: 0;
+    box-sizing: border-box;
+    font-size: 1.1rem;
+    font-weight: bold;
+    letter-spacing: .1rem;
+    background: var(--logo-color);
+    padding: 1.2rem;
+    margin-top: -.1rem;
+    margin-right: -.4rem;
+}
+
+.btnMainText:active {
+  transform: translateX(.2rem) translateY(.3rem);
+}
+
+/* Fim botão comprar */
+
+@media (min-width: 768px) and (max-width: 961px){
+
+}

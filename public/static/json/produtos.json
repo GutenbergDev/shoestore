@@ -1,0 +1,455 @@
+[{
+  "userId": "ProdutoSlide",
+  "nameId": "tenis-1",
+  "type": "old",
+  "product": "tenis",
+  "brand": "Nike",
+  "status": "new",
+  "model": "Air",
+  "id": 1,
+  "name": "Novo Nike Air Max",
+  "OldPrice": 520.00,
+  "price": 489.99,
+  "discount": 10,
+  "description": "Nada mais estiloso, nada tão confortável, nada tão comprovado Nike Air Max 90 permanece fiel às suas raízes com o solado Waffle icônico, camadas costuradas e detalhes em TPU clássicos. Cores atuais proporcionam um visual moderno, enquanto o amortecimento Air Max acrescenta conforto à sua jornada.",
+  "sizes": [39, 40],
+  "imageSlide": "/static/img/slide-main/air1/img-slide1.png",
+  "image": [
+    "/static/img/slide-main/air1/nike-air.jpg",
+    "/static/img/slide-main/air1/nike-air2.jpg",
+    "/static/img/slide-main/air1/nike-air3.jpg",
+    "/static/img/slide-main/air1/nike-air4.jpg",
+    "/static/img/slide-main/air1/nike-air5.jpg"
+  ]
+},
+{
+  "userId": "ProdutoSlide",
+  "nameId": "tenis-2",
+  "type": "old",
+  "product": "tenis",
+  "brand": "Nike",
+  "status": "new",
+  "model": "Air",
+  "id": 2,
+  "name": "Novo Nike Air Max",
+  "OldPrice": 440.00,
+  "price": 389.99,
+  "discount": 11,
+  "description": "Tênis Nike SB Chron Slr Preto",
+  "sizes": [39, 40],
+  "imageSlide": "/static/img/slide-main/air2/img-slide2.png",
+  "image": [
+    "/static/img/slide-main/air2/nike-air.jpg",
+    "/static/img/slide-main/air2/nike-air2.jpg",
+    "/static/img/slide-main/air2/nike-air3.jpg",
+    "/static/img/slide-main/air2/nike-air4.jpg",
+    "/static/img/slide-main/air2/nike-air5.jpg"
+  ]
+},
+{
+  "userId": "ProdutoSlide",
+  "nameId": "tenis-3",
+  "type": "old",
+  "product": "tenis",
+  "brand": "Nike",
+  "status": "new",
+  "model": "Air",
+  "id": 3,
+  "name": "Novo Nike Air Max",
+  "OldPrice": 620.00,
+  "price": 569.99,
+  "discount": 12,
+  "description": "Tênis Nike SB Chron Slr Preto",
+  "sizes": [39, 40],
+  "imageSlide": "/static/img/slide-main/air3/img-slide3.png",
+  "image": [
+    "/static/img/slide-main/air3/nike-air.jpg",
+    "/static/img/slide-main/air3/nike-air2.jpg",
+    "/static/img/slide-main/air3/nike-air3.jpg",
+    "/static/img/slide-main/air3/nike-air4.jpg",
+    "/static/img/slide-main/air3/nike-air5.jpg"
+  ]
+},
+{
+  "userId": "ProdutoSlide",
+  "nameId": "tenis-4",
+  "type": "old",
+  "product": "tenis",
+  "brand": "Nike",
+  "status": "old",
+  "model": "Air",
+  "id": 4,
+  "name": "Novo Nike Air Max",
+  "OldPrice": 635.00,
+  "price": 619.99,
+  "discount": 9,
+  "description": "Tênis Nike SB Chron Slr Preto",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/slide-main/air4/nike-air.jpg",
+    "/static/img/slide-main/air4/nike-air2.jpg",
+    "/static/img/slide-main/air4/nike-air3.jpg",
+    "/static/img/slide-main/air4/nike-air4.jpg",
+    "/static/img/slide-main/air4/nike-air5.jpg"
+  ]
+},
+  {
+  "userId": "Air",
+  "nameId": "air-max1",
+  "type": "old",
+  "product": "tenis",
+  "brand": "Nike",
+  "status": "old",
+  "id": 5,
+  "name": "Nike Air1",
+  "OldPrice": 420.00,
+  "price": 399.99,
+  "discount": 13,
+  "description": "Tênis Nike SB Chron Slr Preto",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/nike-air/air1/air-1.jpg",
+    "/static/img/nike-air/air1/air-2.jpg",
+    "/static/img/nike-air/air1/air-3.jpg",
+    "/static/img/nike-air/air1/air-4.jpg"
+  ]
+},
+{
+  "userId": "Air",
+  "nameId": "air-max2",
+  "type": "old",
+  "id": 5,
+  "name": "Nike Air2",
+  "OldPrice": 320.00,
+  "price": 289.99,
+  "discount": 5,
+  "description": "Tênis Nike SB Chron Slr Preto",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/nike-air/air2/air-1.jpg",
+    "/static/img/nike-air/air2/air-2.jpg",
+    "/static/img/nike-air/air2/air-3.jpg",
+    "/static/img/nike-air/air2/air-4.jpg"
+  ]
+},
+{
+  "userId": "Air",
+  "nameId": "air-max3",
+  "type": "old",
+  "product": "tenis",
+  "brand": "Nike",
+  "status": "old",
+  "id": 6,
+  "name": "Nike Air3",
+  "OldPrice": 220.00,
+  "price": 219.99,
+  "discount": 8,
+  "description": "Tênis Nike SB Chron Slr Preto",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/nike-air/air3/air-1.jpg",
+    "/static/img/nike-air/air3/air-2.jpg",
+    "/static/img/nike-air/air3/air-3.jpg",
+    "/static/img/nike-air/air3/air-4.jpg"
+  ]
+},
+{
+  "userId": "Air",
+  "nameId": "air-max4",
+  "type": "old",
+  "product": "tenis",
+  "brand": "Nike",
+  "status": "old",
+  "id": 7,
+  "name": "Nike Air4",
+  "OldPrice": 320.00,
+  "price": 289.99,
+  "discount": 15,
+  "description": "Tênis Nike SB Chron Slr Preto",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/nike-air/air4/air-1.jpg",
+    "/static/img/nike-air/air4/air-2.jpg",
+    "/static/img/nike-air/air4/air-3.jpg",
+    "/static/img/nike-air/air4/air-4.jpg"
+  ]
+},
+{
+  "userId": "Air",
+  "nameId": "air-max5",
+  "type": "old",
+  "product": "tenis",
+  "brand": "Nike",
+  "status": "old",
+  "id": 8,
+  "name": "Nike Air5",
+  "OldPrice": 320.00,
+  "price": 235.99,
+  "discount": 12,
+  "description": "Tênis Nike SB Chron Slr Preto",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/nike-air/air5/air-1.jpg",
+    "/static/img/nike-air/air5/air-2.jpg",
+    "/static/img/nike-air/air5/air-3.jpg",
+    "/static/img/nike-air/air5/air-4.jpg"
+  ]
+},
+{
+  "userId": "Sb",
+  "nameId": "sb-1",
+  "type": "old",
+  "product": "tenis",
+  "brand": "Nike",
+  "status": "old",
+  "id": 9,
+  "name": "Tênis Nike SB Chron",
+  "OldPrice": 310.00,
+  "price": 180.00,
+  "discount": 15,
+  "description": "Tênis Nike SB Chron Slr Unissex",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/nike-sb/sb1/sb-1.jpg",
+    "/static/img/nike-sb/sb1/sb-2.jpg",
+    "/static/img/nike-sb/sb1/sb-3.jpg",
+    "/static/img/nike-sb/sb1/sb-4.jpg"
+  ]
+},
+{
+  "userId": "Sb",
+  "nameId": "sb-2",
+  "type": "old",
+  "product": "tenis",
+  "brand": "Nike",
+  "status": "old",
+  "id": 10,
+  "name": "Nike SB Red",
+  "OldPrice": 320.00,
+  "price": 190.99,
+  "discount": 10,
+  "description": "Tênis Nike SB Chron Slr Preto",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/nike-sb/sb2/sb-1.jpg",
+    "/static/img/nike-sb/sb2/sb-2.jpg",
+    "/static/img/nike-sb/sb2/sb-3.jpg",
+    "/static/img/nike-sb/sb2/sb-4.jpg"
+  ]
+},
+{
+  "userId": "Sb",
+  "nameId": "sb-3",
+  "type": "old",
+  "product": "tenis",
+  "brand": "Nike",
+  "status": "old",
+  "id": 11,
+  "name": "Nike SB Blue",
+  "OldPrice": 320.00,
+  "price": 279.99,
+  "discount": 10,
+  "description": "Tênis Nike SB Chron Slr Preto",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/nike-sb/sb3/sb-1.jpg",
+    "/static/img/nike-sb/sb3/sb-2.jpg",
+    "/static/img/nike-sb/sb3/sb-3.jpg",
+    "/static/img/nike-sb/sb3/sb-4.jpg"
+  ]
+},
+{
+  "userId": "Sb",
+  "nameId": "sb-4",
+  "type": "old",
+  "product": "tenis",
+  "brand": "Nike",
+  "status": "old",
+  "id": 12,
+  "name": "Nike SB Green",
+  "OldPrice": 300.00,
+  "price": 280.99,
+  "discount": 14,
+  "description": "Tênis Nike SB Chron Slr Preto",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/nike-sb/sb4/sb-1.jpg",
+    "/static/img/nike-sb/sb4/sb-2.jpg",
+    "/static/img/nike-sb/sb4/sb-3.jpg",
+    "/static/img/nike-sb/sb4/sb-4.jpg"
+  ]
+},
+{
+  "userId": "Sb",
+  "nameId": "sb-5",
+  "type": "old",
+  "product": "tenis",
+  "brand": "Nike",
+  "status": "old",
+  "id": 13,
+  "name": "Nike SB Green",
+  "OldPrice": 320.00,
+  "price": 285.99,
+  "discount": 11,
+  "description": "Tênis Nike SB Chron Slr Preto",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/nike-sb/sb5/sb-1.jpg",
+    "/static/img/nike-sb/sb5/sb-2.jpg",
+    "/static/img/nike-sb/sb5/sb-3.jpg",
+    "/static/img/nike-sb/sb5/sb-4.jpg"
+  ]
+},
+{
+  "userId": "basq",
+  "nameId": "basq-1",
+  "type": "old",
+  "product": "camiseta",
+  "brand": "Nike",
+  "status": null,
+  "id": 14,
+  "name": "Regata Jordan Giannis Antetokounmpo Bucks Statement Edition 2020 Masculina",
+  "OldPrice": 330.00,
+  "price": 284.99,
+  "discount": 13,
+  "description": "Cores alternativas ousadas e detalhes distinguem a Statement Edition, uma camisa que simboliza a força coletiva, o espírito e a mentalidade competitiva da escalação. A camisa Jordan NBA Swingman Statement Edition dos Milwaukee Bucks é inspirada no que os profissionais usam. É fabricada com tecido de malha dupla de alta qualidade com um caimento confortável que fica excelente nos fãs.",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/camiseta/nike/Basquete/basq1/camiseta1.jpg",
+    "/static/img/camiseta/nike/Basquete/basq1/camiseta2.png"
+  ]
+},
+{
+  "userId": "basq",
+  "nameId": "basq-2",
+  "type": "old",
+  "product": "camiseta",
+  "brand": "Nike",
+  "status": null,
+  "id": 15,
+  "name": "Regata Nike Bulls Icon",
+  "OldPrice": 220.00,
+  "price": 259.99,
+  "discount": 15,
+  "description": "A camisa Icon Edition representa a rica herança e a identidade icônica da franquia, expressas por meio das cores marcantes do time. A camisa Nike NBA Swingman Bulls Icon Edition do Chicago Bulls é inspirada na que os craques usam nos jogos. O tecido em malha dupla premium tem uma construção de camisa clássica e um caimento que fica bem de todos os ângulos. Este produto é feito com 100% de tecido de poliéster reciclado.",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/camiseta/nike/Basquete/basq2/camiseta1.jpg",
+    "/static/img/camiseta/nike/Basquete/basq2/camiseta2.jpg"
+  ]
+},
+{
+  "userId": "basq",
+  "nameId": "basq-3",
+  "type": "old",
+  "product": "camiseta",
+  "brand": "Nike",
+  "status": null,
+  "id": 16,
+  "name": "Regata Jordan Los Angeles Lakers Statement Edition 2020 Masculina",
+  "OldPrice": 310.00,
+  "price": 289.99,
+  "discount": 12,
+  "description": "Cores e detalhes alternativos e ousados distinguem a Statement Edition, uma camisa que simboliza a força coletiva, o espírito e a mentalidade competitiva da escalação. A camisa Jordan NBA Swingman Statement Edition dos Los Angeles Lakers é inspirada na que os craques usam. É fabricada com tecido de malha dupla de alta qualidade com um caimento confortável que fica excelente nos fãs. Este produto é feito com 100% de fibras de poliéster reciclado.",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/camiseta/nike/Basquete/basq3/camiseta1.jpg",
+    "/static/img/camiseta/nike/Basquete/basq3/camiseta2.jpg"
+  ]
+},
+{
+  "userId": "basq",
+  "nameId": "basq-4",
+  "type": "old",
+  "product": "camiseta",
+  "brand": "Nike",
+  "status": null,
+  "id": 17,
+  "name": "Regata Lakers Anthony Davis Icon Edition 2020/21 Masculina",
+  "OldPrice": 340.00,
+  "price": 289.99,
+  "discount": 10,
+  "description": "A camisa Icon Edition representa a rica herança e a identidade icônica da franquia, expressa através da cor primária ousada da equipe. A camisa Nike NBA Icon Edition Swingman do Los Angeles Lakers é inspirada na que os craques usam. O tecido em malha dupla premium tem uma construção de camisa clássica e um caimento que fica bem de todos os ângulos.",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/camiseta/nike/Basquete/basq4/camiseta1.jpg",
+    "/static/img/camiseta/nike/Basquete/basq4/camiseta2.jpg"
+  ]
+},
+{
+  "userId": "basq",
+  "nameId": "basq-4",
+  "type": "old",
+  "product": "camiseta",
+  "brand": "Nike",
+  "status": null,
+  "id": 18,
+  "name": "Regata Lakers Anthony Davis Icon Edition 2020/21 Masculina",
+  "OldPrice": 340.00,
+  "price": 289.99,
+  "discount": 10,
+  "description": "A camisa Icon Edition representa a rica herança e a identidade icônica da franquia, expressa através da cor primária ousada da equipe. A camisa Nike NBA Icon Edition Swingman do Los Angeles Lakers é inspirada na que os craques usam. O tecido em malha dupla premium tem uma construção de camisa clássica e um caimento que fica bem de todos os ângulos.",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/camiseta/nike/Basquete/basq4/camiseta1.jpg",
+    "/static/img/camiseta/nike/Basquete/basq4/camiseta2.jpg"
+  ]
+},
+{
+  "userId": "basq",
+  "nameId": "basq-4",
+  "type": "old",
+  "product": "camiseta",
+  "brand": "Nike",
+  "status": null,
+  "id": 19,
+  "name": "Regata Lakers Anthony Davis Icon Edition 2020/21 Masculina",
+  "OldPrice": 340.00,
+  "price": 289.99,
+  "discount": 10,
+  "description": "A camisa Icon Edition representa a rica herança e a identidade icônica da franquia, expressa através da cor primária ousada da equipe. A camisa Nike NBA Icon Edition Swingman do Los Angeles Lakers é inspirada na que os craques usam. O tecido em malha dupla premium tem uma construção de camisa clássica e um caimento que fica bem de todos os ângulos.",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/camiseta/nike/Basquete/basq4/camiseta1.jpg",
+    "/static/img/camiseta/nike/Basquete/basq4/camiseta2.jpg"
+  ]
+},
+{
+  "userId": "basq",
+  "nameId": "basq-4",
+  "type": "old",
+  "product": "camiseta",
+  "brand": "Nike",
+  "status": null,
+  "id": 20,
+  "name": "Regata Lakers Anthony Davis Icon Edition 2020/21 Masculina",
+  "OldPrice": 340.00,
+  "price": 289.99,
+  "discount": 10,
+  "description": "A camisa Icon Edition representa a rica herança e a identidade icônica da franquia, expressa através da cor primária ousada da equipe. A camisa Nike NBA Icon Edition Swingman do Los Angeles Lakers é inspirada na que os craques usam. O tecido em malha dupla premium tem uma construção de camisa clássica e um caimento que fica bem de todos os ângulos.",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/camiseta/nike/Basquete/basq4/camiseta1.jpg",
+    "/static/img/camiseta/nike/Basquete/basq4/camiseta2.jpg"
+  ]
+},
+{
+  "userId": "basq",
+  "nameId": "basq-4",
+  "type": "old",
+  "product": "camiseta",
+  "brand": "Nike",
+  "status": null,
+  "id": 21,
+  "name": "Regata Lakers Anthony Davis Icon Edition 2020/21 Masculina",
+  "OldPrice": 340.00,
+  "price": 289.99,
+  "discount": 10,
+  "description": "A camisa Icon Edition representa a rica herança e a identidade icônica da franquia, expressa através da cor primária ousada da equipe. A camisa Nike NBA Icon Edition Swingman do Los Angeles Lakers é inspirada na que os craques usam. O tecido em malha dupla premium tem uma construção de camisa clássica e um caimento que fica bem de todos os ângulos.",
+  "sizes": [39, 40],
+  "image": [
+    "/static/img/camiseta/nike/Basquete/basq4/camiseta1.jpg",
+    "/static/img/camiseta/nike/Basquete/basq4/camiseta2.jpg"
+  ]
+}
+]
